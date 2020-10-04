@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8037ad1dca922da4392cdb22305325f5, type: 3}
+  m_Name: Baker and Chef
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+  speakerRight: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: Hi, welcome to Just Desserts!
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: Hey. Long time no see.
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: I haven't seen you since we graduated from high school! How's the restaurant
+      going?
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: Oh...it's going, but not how I'd like.
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: What do you mean?
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: Well...there is this one critic. Everyone else loves my cooking except
+      him!
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: He leaves my restaurant with bad reviews and business hasn't been the same.
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: I feel like if he didn't exist, all of my problems would go away!
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: ....
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: Kapiche?
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: I see.
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: No worries, I'll get to it right away. What did you have in mind?
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: The guy apprently lovesss crepes. We don't sell them, but maybe he'd appreciate
+      something from you.
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: I see. An order of crepes and you want powdered sugar on that too?
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: 'Yeah. I really appreciate it. '

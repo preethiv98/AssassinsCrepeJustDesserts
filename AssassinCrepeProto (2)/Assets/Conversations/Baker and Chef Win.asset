@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8037ad1dca922da4392cdb22305325f5, type: 3}
+  m_Name: Baker and Chef Win
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+  speakerRight: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: Thanks for your help!
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: No problem. It was evilly delicious!
+  - character: {fileID: 11400000, guid: 01ff672d51f964e4882df272ce443c2b, type: 2}
+    text: Ok then.
