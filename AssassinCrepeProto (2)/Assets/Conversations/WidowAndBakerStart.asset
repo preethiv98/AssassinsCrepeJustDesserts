@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8037ad1dca922da4392cdb22305325f5, type: 3}
+  m_Name: WidowAndBakerStart
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+  speakerRight: {fileID: 11400000, guid: c10e01041de10a24ab2b00fcb64dbcd1, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: Ah, a new customer! Have you come by on recommendation?
+  - character: {fileID: 11400000, guid: c10e01041de10a24ab2b00fcb64dbcd1, type: 2}
+    text: Yes, I hear you're good at what you do. But let's not be so loud...
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: Tell me, what would you like to order?
+  - character: {fileID: 11400000, guid: c10e01041de10a24ab2b00fcb64dbcd1, type: 2}
+    text: The occasion, my anniversary with my dearest husband. We've been married
+      for a month.
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: And the baked goods?
+  - character: {fileID: 11400000, guid: c10e01041de10a24ab2b00fcb64dbcd1, type: 2}
+    text: I want a three-tiered cake that exudes the manifestation of love! He's
+      very wealthy so he'll want the best. Chocolate. This is my 5th marriage so
+      make it special!
+  - character: {fileID: 11400000, guid: c10e01041de10a24ab2b00fcb64dbcd1, type: 2}
+    text: He's 80 years old, so he has quite the weak immune system...
+  - character: {fileID: 11400000, guid: a66835c9e4cd11240b5f8e7609825bcb, type: 2}
+    text: Ah I see. I'll take note. I'll get right on it.
